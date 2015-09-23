@@ -1,0 +1,15 @@
+classes.png                top:0   px left:0   px weight:1080px height:1870px
+classes-bg.png             top:380 px left:0   px weight:1080px height:1330px
+classes-tags1.png          top:320 px left:0   px weight:180 px height:180 px
+classes-tags2.png          top:320 px left:900 px weight:180 px height:180 px
+classes-tags3.png          top:1470px left:0   px weight:180 px height:180 px
+classes-tags4.png          top:1470px left:900 px weight:180 px height:180 px
+classes-food.png           top:572 px left:127 px weight:250 px height:250 px
+classes-study.png          top:572 px left:415 px weight:250 px height:250 px
+classes-sing.png           top:572 px left:702 px weight:250 px height:250 px
+classes-travel.png         top:860 px left:127 px weight:250 px height:250 px
+classes-sport.png          top:860 px left:415 px weight:250 px height:250 px
+classes-movie.png          top:860 px left:702 px weight:250 px height:250 px
+classes-tgame.png          top:1148px left:127 px weight:250 px height:250 px
+classes-internet.png       top:1148px left:415 px weight:250 px height:250 px
+classes-etc.png            top:1148px left:702 px weight:250 px height:250 px

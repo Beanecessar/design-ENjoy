@@ -1,0 +1,12 @@
+main.png                top:   0px left:   0px weight:1080px height:1870px
+topbar-bg.png           top:   0px left:   0px weight:1080px height: 300px
+topbar-button-left.png  top: 250px left: 130px weight: 130px height: 100px
+topbar-button-right.png top: 250px left: 830px weight: 130px height: 100px
+content-top.png         top: 300px left:   0px weight:1080px height:  20px
+content-bg.png          top: 320px left:   0px weight:1080px height:1330px
+sidebar-tag1.png        top: 400px left: 880px weight: 150px height: 150px
+sidebar-tag2.png        top: 650px left: 880px weight: 150px height: 150px
+sidebar-tag3.png        top: 900px left: 880px weight: 150px height: 150px
+sidebar-tag4.png        top:1150px left: 880px weight: 150px height: 150px
+sidebar-tag5.png        top:1400px left: 880px weight: 150px height: 150px
+content-bottom.png      top:1650px left:   0px weight:1080px height:  20px
